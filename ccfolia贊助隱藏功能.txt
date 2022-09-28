@@ -1,0 +1,7 @@
+■ 現在提供中の隠し機能一覧（2020/07/05更新）
+「add timer」タイマー機能をルームに追加します
+「remove timer」タイマー機能をルームから削除します
+「close items --all」部屋のスクリーンパネルを全て裏面にします
+「delete items --all」部屋のスクリーンパネルを全て削除します
+「duplicate-test room」現在開いているルームを複製します
+「export room」盤面エクスポート機能を起動します
